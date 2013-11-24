@@ -1,6 +1,6 @@
 ###To use the code:
 
-> **gesture_recognition8** is the main program
+> **gesture_recognition9** is the main program
 
 > **gesture_recognition10** is used to get the trained data from template images, the variables **fingeredge** and **fingeredge_var** are needed in gesture_recognition 7
 
