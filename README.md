@@ -1,7 +1,7 @@
 Gesture-Recognition-1
 =====================
 
-The latest version is in Gesture-Recognition-2, with more predefined gestures and more accurate results. Feel free to download and try it out, enjoy~
+The latest version is in Gesture-Recognition-SVM, with more predefined gestures and more accurate results. Feel free to download and try it out, enjoy~
 
 ###To use the code:
 
